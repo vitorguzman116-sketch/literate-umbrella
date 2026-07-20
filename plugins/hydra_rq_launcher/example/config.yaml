@@ -1,0 +1,4 @@
+defaults:
+  - hydra/launcher: rq
+
+task: 1
