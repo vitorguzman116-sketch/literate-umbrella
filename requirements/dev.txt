@@ -1,0 +1,20 @@
+-r requirements.txt
+bandit
+black==26.5.1
+build
+coverage
+flake8==7.3.0
+flake8-copyright
+isort==8.0.1
+pyrefly==0.62.0
+nox
+packaging
+pre-commit
+pytest==9.0.3
+pytest-benchmark
+read-version
+setuptools
+towncrier
+twine
+types-setuptools
+yamllint
